@@ -9,10 +9,6 @@ const Navbar = () => {
           <span className="font-extrabold">Pass</span>
           <span className="text-green-500 font-normal"> Manager/&gt;</span>
         </div>
-        <button className="flex items-center gap-2">
-          <img className="w-6 md:w-8" src="/public/Images/github-mark.png" alt="GitHub Logo" />
-          <span className="hidden md:block font-bold">GitHub</span>
-        </button>
       </div>
     </nav>
   );
