@@ -6,7 +6,10 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { v4 as uuidv4 } from "uuid";
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> abcc0ee (Added project files)
 const Main = () => {
   const [showpassword, setshowpassword] = useState(false);
   const passwordref = useRef();
